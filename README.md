@@ -39,18 +39,8 @@ Soy Abraham Parada, ingeniero en informática y fundador de Focus Studio. Llevo 
 
 ---
 
-### 03 — Trayectoria
 
-| Años | Rol | Resultado |
-|---|---|---|
-| 2025–2026 | Project Lead, IA y Automatización · Lempert Transformación Digital | Agente virtual telefónico y chatbot multicanal con IA, de punta a punta |
-| 2018–2025 | Technical & Functional Lead, Proyecto BANCOR · Lempert Transformación Digital | +700 cuadros de mando para todas las áreas de un banco, con un equipo de 15 personas |
-| 2017–2018 | Quality Analyst · Teleperformance | Calidad operativa, KPIs de atención y mejora de procesos |
-| 2011–2017 | Corporate Transactions Center Consultant · CANTV | Sistemas transaccionales corporativos e indicadores operativos |
-
----
-
-### 04 — Proyectos
+### 03 — Proyectos
 
 - **Agente virtual con IA** · Lempert — Atención telefónica y chatbot multicanal que automatiza las consultas repetitivas y el enrutamiento de casos, con derivación a atención humana. <sub>n8n · LLMs · APIs REST · CRM · PostgreSQL</sub>
 - **BI corporativo** · BANCOR — Más de 700 cuadros de mando para pasivo, activo, seguros, riesgos, tarjetas y marketing, en un entorno bancario crítico. <sub>QlikView · Qlik Sense · SQL · ETL · Oracle · PostgreSQL</sub>
@@ -59,7 +49,7 @@ Soy Abraham Parada, ingeniero en informática y fundador de Focus Studio. Llevo 
 
 ---
 
-### 05 — Herramientas
+### 04 — Herramientas
 
 **IA y automatización** — Claude Code · OpenCode · n8n · IA generativa (LLMs) · Python<br>
 **Datos** — SQL · PostgreSQL · Oracle · Sybase SQL Anywhere · ETL · Power BI · QlikView · Qlik Sense<br>
@@ -68,7 +58,7 @@ Soy Abraham Parada, ingeniero en informática y fundador de Focus Studio. Llevo 
 
 ---
 
-### 06 — Formación
+### 05 — Formación
 
 **Ingeniería en Informática** — Universidad Alejandro de Humboldt, 2012–2016<br>
 **Diplomatura en Inteligencia Artificial** — Universidad de Palermo, 2024<br>
